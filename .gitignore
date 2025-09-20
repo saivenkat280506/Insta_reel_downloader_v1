@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual env
+.venv/
+venv/
+ENV/
+
+# PyInstaller build
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# Temp folders
+temp_download/
+downloaded_reels/
