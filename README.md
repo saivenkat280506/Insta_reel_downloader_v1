@@ -14,5 +14,6 @@ A simple Python tool to download Instagram Reels as `.mp4`.
 4. want to Build EXE file then RUN these commands
 
   pip install pyinstaller
+  
   pyinstaller --onefile --console insta_reel_downloader.py
  
